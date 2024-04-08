@@ -1,27 +1,31 @@
-# Project Outline and Specification
+# Project Documentation and Specification
 
 ## Introduction
 + Brief description of the project and its operations/features
 
 ## Project Scope
-+ Problem statement and the solutions
++ Problem statement and the solutions (high level : project objective and scope)
 + Scope of operations and features
 + Acknowledgments 
 
 ## Design 
 + list of operations and features planned (python library, datacube objects, operations, e.g. access, subset, process, aggregate, fusion, encode and graph…
-+ Implementation Schedule and Plan (sprint#1, sprint#2, sprint#3)
++ Implementation Schedule and Plan
+  - Sprint#1
+  - Sprint#2
+  - Sprint#3
 + Technical details:
-++ software tools and systems
-	- source code structure, pattern and conventions
-+ Test Plan : Unit Test and Integration Test
+  - software tools and systems
++ Test Plan :
+  - Unit Test
+  - Integration Test
 
 ## Implementation
-+ Source Library
-+ Getting Started
-++ Prerequisites
-++ Installation
-++ Connection to Datacube Object
+### Source Library
+### Getting Started
++ Prerequisites
++ Installation
++ Connection to Datacube Object
 
 ### Sample Code
 
