@@ -20,7 +20,7 @@
     - Python
     - WCPS of the rasdaman datacube and database object 
 + Test Plan :
-  - Unit Testing : test the units of operations and features with test cases and expected test results 
+  - Unit Testing : test the units of each operation and each feature with test cases and expected test results 
   - Integration Test : test the whole system with the integration test cases after integrated all units of operations and features
 
 ## Implementation
@@ -36,8 +36,8 @@
 
 ### Source Code File Structure
 
-### Implementation Progress
-#### Sprint#1
+## Implementation Progress
+### Sprint#1
 + Start date: 8 April 2024
 + End date:　18 April 2024
 + SprintPair14 and Members: Daria SOLOVEVA and Wang Yat SIN 
@@ -46,7 +46,7 @@
 + Work not started yet:
 + Overall completion %: 
 
-#### Sprint#2
+### Sprint#2
 + Start date: 19 April 2024
 + End date:　2 May 2024
 + Pair# and Members: 
@@ -55,7 +55,7 @@
 + Work not started yet:
 + Overall completion %: 
   
-#### Sprint#3
+### Sprint#3
 + Start date: 3 May 2024
 + End date:　16 May 2024
 + Pair# and Members: 
