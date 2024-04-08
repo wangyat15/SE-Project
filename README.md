@@ -1,4 +1,4 @@
-Project Outline and Specification
+##Project Outline and Specification
 
 Introduction
 -	Brief description of the project and its operations/features
