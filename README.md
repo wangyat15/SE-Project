@@ -11,13 +11,13 @@
 ## Design 
 + list of operations and features planned (python library, datacube objects, operations, e.g. access, subset, process, aggregate, fusion, encode and graph…
 + Implementation Schedule and Plan
-  - Sprint#1 :Define project scope, project plan and project design and setup the environment with some sample functions, source codes and test cases (8 April - 18 April, 2 weeks)
-  - Sprint#2 :Implement the operations and features and perform unit testing (19 April - 2 May, 2 weeks)
-  - SPrint#3 :Implement the rest of the operations and features, perform unit and integration testing and rollout the system (3 May - 16 May, 2 weeks)
+  - Sprint#1(8 April to 18 April , 2 weeks) :Define project scope, project plan and project design and setup the environment with some sample functions, source codes and test cases
+  - Sprint#2(19 April to 2 May, 2 weeks) :Implement the operations and features and perform unit testing 
+  - SPrint#3(3 May to 16 May, 2 weeks) :Implement the rest of the operations and features, perform unit and integration testing and rollout the system 
 
 + Technical details:
   - software tools and systems:
-    - [Python] (https://www.python.org/)
+    - [Python](https://www.python.org/)
     - [WCPS (Web Coverage Processing Service)](https://earthserver.eu/wcs/) of the [Rasdaman Datacube and query language](https://standards.rasdaman.com/) 
     - [Jupyter notebook](https://jupyter.org/install) (for testing and training materials)
     - [GitHub](https://github.com/) (for source repository)
