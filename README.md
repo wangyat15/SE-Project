@@ -11,9 +11,12 @@
 ## Design 
 + list of operations and features planned (python library, datacube objects, operations, e.g. access, subset, process, aggregate, fusion, encode and graph…
 + Implementation Schedule and Plan
-  - Sprint#1(8 April to 18 April , 2 weeks) :Define project scope, project plan and project design and setup the environment with some sample functions, source codes and test cases
-  - Sprint#2(19 April to 2 May, 2 weeks) :Implement the operations and features and perform unit testing 
-  - SPrint#3(3 May to 16 May, 2 weeks) :Implement the rest of the operations and features, perform unit and integration testing and rollout the system 
+  - Sprint#1(8 April to 18 April , 2 weeks):
+    Define project scope, project plan and project design and setup the environment with some sample functions, source codes and test cases
+  - Sprint#2(19 April to 2 May, 2 weeks):
+    Implement the operations and features and perform unit testing 
+  - SPrint#3(3 May to 16 May, 2 weeks) :
+    Implement the rest of the operations and features, perform unit and integration testing and rollout the system 
 
 + Technical details:
   - software tools and systems:
@@ -46,7 +49,8 @@
 + Work done:
 + Work partially done:
 + Work not started yet:
-+ Overall completion %: 
++ Overall completion %:
++ Handover notes:
 
 ### Sprint#2
 + Start date: 19 April 2024
@@ -55,7 +59,8 @@
 + Work done:
 + Work partially done:
 + Work not started yet:
-+ Overall completion %: 
++ Overall completion %:
++ Handover notes:
   
 ### Sprint#3
 + Start date: 3 May 2024
@@ -64,4 +69,5 @@
 + Work done:
 + Work partially done:
 + Work not started yet:
-+ Overall completion %: 
++ Overall completion %:
++ Handover notes:
