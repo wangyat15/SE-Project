@@ -1,7 +1,7 @@
 # Project Documentation and Specification
 
 ## Introduction
-This project utlilizes [Python](https://www.python.org/) to generate and visualize spatio-temporal earth data using a transparent [WCPS](https://earthserver.eu/wcs/) query from the [Rasdaman Datacube](https://standards.rasdaman.com/), a multi-dimensional array database. It showcases the processing of datacube objects through a range of WCPS operations and functions.  The project is implmented in a traditional software life cycle including specification, implementation, testing, integration and documentation. The project emphasizes collaboration and teamwork accross sprint cycles to achieve the planned outcomes. 
+This project utlilizes [Python](https://www.python.org/) to generate and visualize spatio-temporal earth data using a transparent [WCPS](https://earthserver.eu/wcs/) query from the [Rasdaman Datacube](https://standards.rasdaman.com/), a multi-dimensional array database. It showcases the processing of datacube objects through a range of WCPS operations and functions.  The project is implmented in a traditional software development life cycle including specification, implementation, testing, integration and documentation. The project emphasizes collaboration and teamwork accross sprint cycles to achieve the planned outcomes. 
 
 ## Project Scope
 + Problem statement and the solutions (high level : project objective and scope)
