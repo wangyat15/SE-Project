@@ -17,8 +17,10 @@
 
 + Technical details:
   - software tools and systems:
-    - Python
-    - WCPS of the rasdaman datacube and database object 
+    - [Python] (https://www.python.org/)
+    - [WCPS (Web Coverage Processing Service)](https://earthserver.eu/wcs/) of the [Rasdaman Datacube and query language](https://standards.rasdaman.com/) 
+    - [Jupyter notebook](https://jupyter.org/install) (for testing and training materials)
+    - [GitHub](https://github.com/) (for source repository)
 + Test Plan :
   - Unit Testing : test the units of each operation and each feature with test cases and expected test results 
   - Integration Test : test the whole system with the integration test cases after integrated all units of operations and features
