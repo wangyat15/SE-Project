@@ -2,9 +2,9 @@
 
 import subprocess
 
-def program_b():
-    print("Executing program B...")
-    # Add your code for program B here
+def program_7():
+    print("Executing program 7... - not started yet -")
+    # Add your code for program 7 here
 
 def display_menu():
     print("Selction Menu as an interface with the WCPS Server:")
@@ -35,6 +35,58 @@ def main():
                     print(completed_process.stderr)
             except FileNotFoundError:
                 print("Error: opt1_wcps_access.py not found.")
+        elif choice == "2":
+            try:
+                completed_process = subprocess.run(["python", "opt2_wcps_subsetting.py"],capture_output=True,text=True)
+                if completed_process.returncode == 0:
+                    print("==============================")
+                    print("execution sucessful")
+                    print(completed_process.stdout)
+                else:
+                    print("==============================")
+                    print("error in execution")
+                    print(completed_process.stderr)
+            except FileNotFoundError:
+                print("Error: opt2_wcps_subsetting.py not found.")
+        elif choice == "3":
+            try:
+                completed_process = subprocess.run(["python", "opt3_wcps_fusion.py"],capture_output=True,text=True)
+                if completed_process.returncode == 0:
+                    print("==============================")
+                    print("execution sucessful")
+                    print(completed_process.stdout)
+                else:
+                    print("==============================")
+                    print("error in execution")
+                    print(completed_process.stderr)
+            except FileNotFoundError:
+                print("Error: opt3_wcps_fusion.py not found.")
+        elif choice == "4":
+            try:
+                completed_process = subprocess.run(["python", "opt4_wcps_minimum.py"],capture_output=True,text=True)
+                if completed_process.returncode == 0:
+                    print("==============================")
+                    print("execution sucessful")
+                    print(completed_process.stdout)
+                else:
+                    print("==============================")
+                    print("error in execution")
+                    print(completed_process.stderr)
+            except FileNotFoundError:
+                print("Error: opt4_wcps_minimum.py not found.")
+        elif choice == "5":
+            try:
+                completed_process = subprocess.run(["python", "opt5_wcps_maximum.py"],capture_output=True,text=True)
+                if completed_process.returncode == 0:
+                    print("==============================")
+                    print("execution sucessful")
+                    print(completed_process.stdout)
+                else:
+                    print("==============================")
+                    print("error in execution")
+                    print(completed_process.stderr)
+            except FileNotFoundError:
+                print("Error: opt5_wcps_maximum.py not found.")
         elif choice == "6":
             try:
                 completed_process = subprocess.run(["python", "opt6_wcps_average.py"],capture_output=True,text=True)
@@ -48,6 +100,8 @@ def main():
                     print(completed_process.stderr)
             except FileNotFoundError:
                 print("Error: opt6_wcps_average.py not found.")
+        elif choice == "7":
+            program_7()
         elif choice == "8":
             print("==============================")
             print("Exiting the program...")
